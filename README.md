@@ -8,7 +8,10 @@ Dari kelompok 7
 
 ### Apa itu Virtualisasi
 ```json
-Merupakan sebuah proses berbasis software yang merepresentasikan aplikasi/sistem operasi/server. Namun pada kali ini kami akan melakukan virtualisasi 2 buah sistem operasi, yaitu Linux: Fedora 40 Workstation dan Windows 7 Home
+Merupakan sebuah proses berbasis software yang merepresentasikan aplikasi/sistem operasi/server.
+Namun pada kali ini kami akan melakukan virtualisasi 2 buah sistem operasi, yaitu:
+ - Linux: Fedora 40 Workstation dan 
+Windows 7 Home
 ```
 
 ### Persiapan
