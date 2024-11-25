@@ -37,7 +37,7 @@ Untuk melakukan proses virtualisasi ini ada beberapa yang harus kita persiapkan,
 Hal pertama yang paling membedakan antara Windows dan Linux adalah Lisensi. Dimana Linux adalah sistem operasi yang gratis (open source), dan sebaliknya Windows yang didevelopment oleh Microsoft adalah sistem operasi yang berbayar. Saat materi ini dibuat, harga resmi dari Windows 11 sendiri adalah $139.0 atau jika dirupiahkan sekitar Rp. 2.216.000
 
 ```
-
+NGODING KOK DI KERTAS 
 ### Dukungan Perangkat Lunak (Software)
 
 ```
