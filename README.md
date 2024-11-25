@@ -95,16 +95,26 @@ Adapun beberapa manfaat dari penggunan Sistem Operasi dari Windows 7, yaitu seba
 
 ### Hasil Fedora 40 Workstation
 
+```
+Adapun beberapa hasil kegunaan dari sistem operasi Fedora 40 ini, yaitu:
+```
 
-
-
+- Ideal untuk pengembang, profesional IT, atau pengguna yang ingin sistem operasi modern, stabil, dan aman
+- Cocok untuk server atau workstation
 
 ### Hasil Windows 7 Home
-
-
+```
+Adapun beberapa hasil kegunaan dari sistem operasi Windows ini, yaitu:
+```
+ 
+- Digunakan pada sistem lama yang tidak mendukung versi Windows yang lebih baru.
+- Cocok untuk menjalankan aplikasi atau perangkat keras spesifik yang hanya bekerja di Windows 7.
 
 
 ## Kesimpulan
 
+```
+Setelah seluruh pembahasan ini, dapat disimpulkan bahwa Linux cocok untuk penggunaan anti-mainstream. Jika kalian adalah seseorang yang berkehidupan dekat dengan IT, maka sistem operasi ini cocok untuk Kalian. Karena Linux memberikan dukungan untuk melakukan pemrogram, jaringan, server, data, dan administrator sistem. Sedangkan Windows 7 Home cocok untuk kalian yang menggunakan Komputer/Laptop untuk keperluan seperti Microsoft Office (Word, Excel, Powerpoint) dan tidak neko neko untuk menggunakan aplikasi lainnya
+```
 
 
